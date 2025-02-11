@@ -10,4 +10,4 @@ I was born for you.
 ### Overall Status
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=006lp&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-![cinit](https://count.getloli.com/get/@cinit)
+![006lp](https://count.getloli.com/get/@006lp)

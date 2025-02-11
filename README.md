@@ -1,16 +1,13 @@
-## Hi there 👋
+<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+    <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
+    <img style='position:absolute; z-index:2;' src='https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp' width='300px' alt="00.webp"/>
+</div> 
 
-<!--
-**006lp/006lp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Self Introduction
 
-Here are some ideas to get you started:
+I was born for you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Overall Status
+
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=006lp&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+![cinit](https://count.getloli.com/get/@cinit)
